@@ -3,8 +3,7 @@ Image processing tool developed with C# form applications developed via great cl
 
 Bu proje Doç. Dr İbrahim ÇAYIROĞLU'nun paylaşmış olduğu görüntü işleme ders notlarını kaynak olarak kullanarak yaptığım bir C# forms görüntü işleme uygulamasıdır.Projenin çoğu Türkçedir, bin/debug klasörünün içerisinde çalıştırılabilir .exe dosyası bulunmakta, kullanmak isterseniz oradan çalıştırabilirsiniz. Proje kaynaklarını istediğiniz gibi kullanabilirsiniz, atıfta bulunursanız mutlu olurum.
 
-
-
+![image](https://github.com/omerburakozgur/ImageProcessingAppCSharp/assets/90705984/9a977708-8880-47ed-a639-1ea4d05b774e)
 
 You can find him here / Hocamızın kendisini buradan bulabilirsiniz.
 https://unis.karabuk.edu.tr/akademisyen/icayiroglu
