@@ -5,6 +5,8 @@ Bu proje Doç. Dr İbrahim ÇAYIROĞLU'nun paylaşmış olduğu görüntü işle
 
 ![image](https://github.com/omerburakozgur/ImageProcessingAppCSharp/assets/90705984/9a977708-8880-47ed-a639-1ea4d05b774e)
 
-You can find him here / Hocamızın kendisini buradan bulabilirsiniz.
+You can find him here
+Hocamızın kendisini buradan bulabilirsiniz.
+
 https://unis.karabuk.edu.tr/akademisyen/icayiroglu
 http://www.ibrahimcayiroglu.com/
