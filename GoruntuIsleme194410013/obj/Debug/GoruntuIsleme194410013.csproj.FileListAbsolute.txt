@@ -1,0 +1,14 @@
+D:\Dosyalar\Ders\3.Yıl 1. Dönem\GoruntuIslemeProje\GoruntuIsleme194410013\GoruntuIsleme194410013\obj\Debug\GoruntuIsleme194410013.Form1.resources
+D:\Dosyalar\Ders\3.Yıl 1. Dönem\GoruntuIslemeProje\GoruntuIsleme194410013\GoruntuIsleme194410013\obj\Debug\GoruntuIsleme194410013.Properties.Resources.resources
+D:\Dosyalar\Ders\3.Yıl 1. Dönem\GoruntuIslemeProje\GoruntuIsleme194410013\GoruntuIsleme194410013\obj\Debug\GoruntuIsleme194410013.csproj.GenerateResource.cache
+D:\Dosyalar\Ders\3.Yıl 1. Dönem\GoruntuIslemeProje\GoruntuIsleme194410013\GoruntuIsleme194410013\obj\Debug\GoruntuIsleme194410013.csproj.CoreCompileInputs.cache
+D:\Dosyalar\Ders\3.Yıl 1. Dönem\GoruntuIslemeProje\GoruntuIsleme194410013\GoruntuIsleme194410013\bin\Debug\GoruntuIsleme194410013.exe.config
+D:\Dosyalar\Ders\3.Yıl 1. Dönem\GoruntuIslemeProje\GoruntuIsleme194410013\GoruntuIsleme194410013\bin\Debug\GoruntuIsleme194410013.exe
+D:\Dosyalar\Ders\3.Yıl 1. Dönem\GoruntuIslemeProje\GoruntuIsleme194410013\GoruntuIsleme194410013\bin\Debug\GoruntuIsleme194410013.pdb
+D:\Dosyalar\Ders\3.Yıl 1. Dönem\GoruntuIslemeProje\GoruntuIsleme194410013\GoruntuIsleme194410013\obj\Debug\GoruntuIsleme194410013.exe
+D:\Dosyalar\Ders\3.Yıl 1. Dönem\GoruntuIslemeProje\GoruntuIsleme194410013\GoruntuIsleme194410013\obj\Debug\GoruntuIsleme194410013.pdb
+D:\Dosyalar\Ders\3.Yıl 1. Dönem\GoruntuIslemeProje\GoruntuIsleme194410013\GoruntuIsleme194410013\obj\Debug\GoruntuIsleme194410013.csproj.AssemblyReference.cache
+D:\Dosyalar\Ders\3.Yıl 1. Dönem\GoruntuIslemeProje\GoruntuIsleme194410013\GoruntuIsleme194410013\bin\Debug\GoruntuIsleme194410013.exe.manifest
+D:\Dosyalar\Ders\3.Yıl 1. Dönem\GoruntuIslemeProje\GoruntuIsleme194410013\GoruntuIsleme194410013\bin\Debug\GoruntuIsleme194410013.application
+D:\Dosyalar\Ders\3.Yıl 1. Dönem\GoruntuIslemeProje\GoruntuIsleme194410013\GoruntuIsleme194410013\obj\Debug\GoruntuIsleme194410013.exe.manifest
+D:\Dosyalar\Ders\3.Yıl 1. Dönem\GoruntuIslemeProje\GoruntuIsleme194410013\GoruntuIsleme194410013\obj\Debug\GoruntuIsleme194410013.application
